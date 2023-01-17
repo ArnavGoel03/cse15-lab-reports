@@ -50,3 +50,6 @@ I chose to install it through a package manager for MacOS named HomeBrew.
 ## 4. Running basic Commands
 - Run the basic commands such as cd, ls, cp, cat and many more to explore and play around with the variuous fucntionalties it has to offer
 ![Image containing basic commads run on a terminal window along with their outputs](Running%20commands%20ss.png)
+
+***
+***

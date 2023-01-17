@@ -2,7 +2,7 @@
 
 ## 1. Setting up your CSE 15l account
   - [Log in](https://sdacs.ucsd.edu/~icc/index.php) to your account by using the username and your unique PID 
-  ![][https://github.com/ArnavGoel03/cse15-lab-reports-wi23/blob/main/add1.png]
+  ![](add1.png)
   - Click on your unique course id enclosed inside the gray box
   - Click on the change password hyperlink on the next webpage that is opened up on your end 
   - Follow the on-screen instructions to change the password of your course specific account

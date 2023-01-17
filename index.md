@@ -1,1 +1,1 @@
-This is a smaple file to start a new repository.
+This is a sample file to start a new repository.

@@ -12,7 +12,12 @@
 ## 2. Installing vs code 
   - Intall visual studio code using this [link](https://code.visualstudio.com/)
   ![](vs%20code%20install%20ss.png)
-  - Follow the intructions on the dialog boxes after downloading and running the .dmg file.
+  - Select the appropriate version of the Vs code based on your model of your computers and download it.
+  ![](VS3.png)
+  - Run the .zip.download file and follow the onscreen instructions along with accepting their terms and conditions to get the Visual Studio Code up and running.
+  ![](VS2.png)
+  - Note - The feedback asked me to outline the steps in the installation of VS code but on my computer it literally just took me to run the downloaded file to get it running and hence I didn't have much to add up
+  - 
 
 ***
 

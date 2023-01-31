@@ -59,8 +59,8 @@ I chose to install it through a package manager for MacOS named HomeBrew.
 
 ## 4. Running basic Commands
 - Run the basic commands such as cd, ls, cp, cat and many more to explore and play around with the variuous fucntionalties it has to offer
-- Out of these,'ls' command is used to list files and directories while the cs command is used to change the current working directory on the terminal. Another simple operation of copying that we use in our day to day lives is fullied in the context of files using the cp command on terminal.
-- The most suprising "underdog" fucntion out of these is perhaps the cat funtion as on top of concatenation, it can also be used to view contents of a file or redirecting outputs which I was unaware of.
+- Out of these,'ls' command is used to list files and directories while the 'cd' command is used to change the current working directory on the terminal. Another simple operation of copying that we use in our day to day lives is fullied in the context of files using the 'cp' command on terminal.
+- The most suprising "underdog" fucntion out of these is perhaps the 'cat' funtion as on top of concatenation, it can also be used to view contents of a file or redirecting outputs which I was unaware of.
 
 ![Image containing basic commads run on a terminal window along with their outputs](Running%20commands%20ss.png)
 
